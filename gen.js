@@ -1,3 +1,4 @@
+//Sami Jakonen jaksfi@github
 //Runon rivit tai sanat
 let sanat = "Mieleni minun tekevi;aivoni ajattelevi;lähteäni laulamahan;Lähe nyt kanssa laulamahan;kahta'alta käytyämme;näillä raukoilla rajoilla;poloisilla Pohjan mailla;sormet sormien lomahan;kuulla noien kultaisien;noita saamia sanoja;virsihin Vipunen kuoli;sae saatteli runoja;ongelmoita oppimia;panin aitan parven päähän;rasian rahin nenähän;virsilippahan viritän;	tiesin virttä tehtäväksi;iän kaiken impeyttä;	avaroilla autioilla;lenti luotehet, etelät;arvelee, ajattelevi;aalto vie asuinsijani";
 /*Erotellaan data listaksi
