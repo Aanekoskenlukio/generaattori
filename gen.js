@@ -9,7 +9,7 @@ Vaihda split-funktion attribuutti rivien erotusmerkiksi
 */
 let sanaLista = sanat.split(";");
 //Generoitavien säkeiden määrä
-let maara = 5;
+let maara = 3;
 
 //Funktio ensimmäisen kirjaimen isoksi muuttamista varten
 String.prototype.capitalize = function() {
