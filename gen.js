@@ -1,7 +1,8 @@
 //Sami Jakonen jaksfi@github
 //Runon rivit tai sanat
-let sanat = "Mieleni minun tekevi;aivoni ajattelevi;lähteäni laulamahan;Lähe nyt kanssa laulamahan;kahta'alta käytyämme;näillä raukoilla rajoilla;poloisilla Pohjan mailla;sormet sormien lomahan;kuulla noien kultaisien;noita saamia sanoja;virsihin Vipunen kuoli;sae saatteli runoja;ongelmoita oppimia;panin aitan parven päähän;rasian rahin nenähän;virsilippahan viritän;	tiesin virttä tehtäväksi;iän kaiken impeyttä;	avaroilla autioilla;lenti luotehet, etelät;arvelee, ajattelevi;aalto vie asuinsijani";
+let sanat = "Mieleni minun tekevi;aivoni ajattelevi;lähteäni laulamahan;Lähe nyt kanssa laulamahan;kahta'alta käytyämme;Täst’ on kulta kulkenunna;Täst’ on mennyt mielitietty;Tästä armas astununna;Valkia vaeltanunna; Täss’ on astunut aholla;Tuoss’ on istunut kivellä;Kivi on paljo kirkkahampi;Paasi toistansa parempi;Kangas kahta kaunihimpi;Lehto viittä leppiämpi;Korpi kuutta kukkahampi;Koko metsä mieluisampi;Tuon on kultani kulusta;Armahani astunnasta; näillä raukoilla rajoilla;poloisilla Pohjan mailla;sormet sormien lomahan;kuulla noien kultaisien;noita saamia sanoja;virsihin Vipunen kuoli;sae saatteli runoja;ongelmoita oppimia;panin aitan parven päähän;rasian rahin nenähän;virsilippahan viritän;	tiesin virttä tehtäväksi;iän kaiken impeyttä;	avaroilla autioilla;lenti luotehet, etelät;arvelee, ajattelevi;aalto vie asuinsijani";
 /*Erotellaan data listaksi
+
 
 Vaihda split-funktion attribuutti rivien erotusmerkiksi
 
